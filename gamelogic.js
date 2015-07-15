@@ -21,7 +21,7 @@ var myGame = {
         }
       ],
       livesImage : {
-        src : '/scroller/heart.png',
+        src : 'Zelda_Heart.png',
         dX:0,
         dY:10,
         dWidth:30,
